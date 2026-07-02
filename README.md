@@ -27,4 +27,4 @@ Dopo un percorso di formazione intenso e focalizzato sullo sviluppo moderno, mi 
 - 💬 Chiedimi pure informazioni su progetti full-stack, logiche di routing o... su come strutturare un database relazionale per far girare un'applicazione complessa!
 
 ### 📬 Trovami qui:
-[LinkedIn](www.linkedin.com/in/mattia-mion-1a290882)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattiamion91/)
