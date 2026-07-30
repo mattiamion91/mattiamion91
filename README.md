@@ -1,8 +1,7 @@
 # Ciao, sono Mattia! 👋
 
-Sono un **Junior Full Stack Web Developer** con una solida base logico-scientifica e una grande passione per la costruzione di applicazioni web robuste, scalabili e curate nei minimi dettagli. 
-
-Dopo un percorso di formazione intenso e focalizzato sullo sviluppo moderno, mi dedico costantemente a tradurre idee complesse in codice pulito e architetture database efficienti. Amo la sfida di far dialogare un frontend reattivo con un backend solido.
+Appassionato fin da bambino di tutto ciò che riguardava "i computers" recentemente mi son detto che la passione non bastava. 
+Dopo svariati lavori in diversi ambienti ho deciso di rinunciare "all’indeterminato" e affrontare un corso intensivo di programmazione forte di ciò che le esperienze passate mi hanno insegnato: organizzazione, intraprendenza, resistenza e leadership 
 
 ---
 
@@ -22,9 +21,9 @@ Dopo un percorso di formazione intenso e focalizzato sullo sviluppo moderno, mi 
 ---
 
 ### 🚀 Cosa sto facendo in questo momento
-- 🔭 Sto ottimizzando le mie competenze sull'architettura dei database e l'integrazione di API RESTful.
-- 🌱 Sto approfondendo le best practices di Git, l'uso dei Conventional Commits e la scrittura di codice sempre più pulito e manutenibile.
-- 💬 Chiedimi pure informazioni su progetti full-stack, logiche di routing o... su come strutturare un database relazionale per far girare un'applicazione complessa!
+- 🔭 Sto ottimizzando le mie competenze sviluppando progetti che ampliano le mie conoscenze di programmazione
+- 🌱 Sto svolgendo i corsi che Anthropic ha messo a disposizioni
+- 💬 Chiedimi pure informazioni sui progetti full-stack che ho affrontato
 
 ### 📬 Trovami qui:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattiamion91/)
